@@ -17,7 +17,8 @@ Users should be able to:
 
 - Built with: `HTML` `CSS` `JS`
 - Mobile-first workflow
-  ![](./.docs/design/desktop-design.jpg)
+
+![](./.docs/design/desktop-design.jpg)
 
 # Working in `fm-notifications-page` repository
 
