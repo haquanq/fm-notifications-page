@@ -16,7 +16,7 @@ Thanks to fronendmentor team, this challenge gave me an opportunity to learn mor
 🐲 **What i have done**
 
 - Used my own judgement to achieve **pixel-perfect** without design files.
-- Overridden default focus outline visual (buttons, inputs).
+- Overridden default focus outline visual (links).
 
 ## What challenges did you encounter, and how did you overcome them?
 
