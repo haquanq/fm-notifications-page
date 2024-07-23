@@ -131,6 +131,7 @@ h1 {
     transition-property: background-color, color;
     transition-duration: 150ms;
     transition-timing-function: ease;
+    color: var(--clr-gray-400);
 }
 
 .notification__item {
@@ -165,7 +166,7 @@ h1 {
     margin-right: 0.8125rem;
 }
 .notification__timestamp {
-    letter-spacing: var(--tracking-timestamp);
+    color: var(--clr-gray-400);
 }
 .notification__description {
     letter-spacing: var(--tracking-text);
