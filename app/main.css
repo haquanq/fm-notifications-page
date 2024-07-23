@@ -89,7 +89,7 @@ h1 {
    CSS MAIN 
    =============== */
 .main__container {
-    background-color: var(--clr-gray-50);
+    background-color: #f9fafe;
     font-family: var(--font-main);
     font-weight: var(--font-medium);
     font-size: var(--text-sm);
@@ -258,6 +258,8 @@ h1 {
         width: min(100vw - 3em, 45.625rem);
         margin: 0 auto;
         padding: 2rem 1.875rem 0 1.875rem;
+        box-shadow: rgba(149, 157, 165, 0.075) 0px 8px 32px;
+        border-radius: var(--rounded-base);
     }
     .notification__description {
         line-height: 1.4375rem;
