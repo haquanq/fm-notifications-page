@@ -116,7 +116,7 @@ h1 {
 }
 .notification__label__text #notification-count {
     color: var(--clr-white);
-    background-color: var(--clr-blue-300);
+    background-color: var(--clr-blue-500);
     line-height: var(--leading-none);
     font-size: inherit;
     padding: 0.25rem 0.6875rem 0.3125rem 0.6875rem;
