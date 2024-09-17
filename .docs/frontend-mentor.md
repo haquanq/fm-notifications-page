@@ -15,8 +15,8 @@ This challenge gave me some headache from looking at the design because i saw so
 
 :memo: **What i have done**
 
-- Made the solution as close to the design as possible.
-- Added custom effects on interactive elements.
+- Made the solution as close to the design as possible (i don't have Figma files).
+- Added custom effects on interactive elements (spice things up).
 
 ## What challenges did you encounter, and how did you overcome them?
 
