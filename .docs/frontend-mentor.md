@@ -2,26 +2,26 @@
 
 ## What are you most proud of, and what would you do differently next time?
 
-Hello 👋👋👋
+Hello everyone :moyai:
 
-Thanks to fronendmentor team, this challenge gave me an opportunity to learn more about HTML & CSS! 😁
+This challenge gave me some headache from looking at the design because i saw some inconsistency in term of spacings between certain elements. Anyway, i picked a rock and ate it (not really, should i pick a frog?).
 
-🚀 **Built with**
+:seedling: **Built with**
 
 - Mobile-first workflow
 - Semantic HTML
 - Pure CSS
 - Vanilla JavaScript
 
-🐲 **What i have done**
+:memo: **What i have done**
 
-- Used my own judgement to achieve **pixel-perfect** without design files.
-- Overridden default focus outline visual (links).
+- Made the solution as close to the design as possible.
+- Added custom effects on interactive elements.
 
 ## What challenges did you encounter, and how did you overcome them?
 
-None 🐱
+The challenge was there, but i overcame it anyway.
 
 ## What specific areas of your project would you like help with?
 
-Any feedback is appreciated 🙏
+Would love to hear your opinions on any topic.
